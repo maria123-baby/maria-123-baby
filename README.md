@@ -1,4 +1,4 @@
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> Hi there ,I am Maria Baby👋
+ Hi there ,I am Maria Baby👋
 * ♥️ I am passionate about web development 
 * 🌱 I’m currently learning on angular
 * 📫 How to reach me: mariababy5985@gmail.com
