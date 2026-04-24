@@ -1,7 +1,8 @@
-8 Hi there ,I am Maria Baby👋
-* ♥️ I am passionate about web development 
-* 🌱 I’m currently learning on angular
-* 📫 How to reach me: mariababy5985@gmail.com
+Hi there ,I am Maria Baby👋
+* 🌱 I'm a computer science graduate 
+* ♥️ I am passionate in developing projects especially in full stack web development
+
+* 📫 How to reach me: maria.by1793@gmail.com
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
